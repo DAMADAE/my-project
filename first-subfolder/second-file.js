@@ -3,3 +3,6 @@ const back1 = (a,b) => {
     return c  
 }
 console.log(back1(3,3))
+
+
+console.log('git')
